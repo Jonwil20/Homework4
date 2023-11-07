@@ -5,8 +5,7 @@
 # 
 # * One variable that stayed consistent was the correlation between the budget and the number of students, regardless of whether the school was of the type "District" or "Charter", which suggests that the average amount of money supposedly devoted per child was consistent as well.
 # 
-# * The size of the school did not have a significant effect on the average math or reading scores.
-
+# * The size of the school did not have a significant effect on the average math or reading scores. 
 # ### Note
 # * Instructions have been included for each segment. You do not have to follow them exactly, but they are included to help you think through the steps.
 
